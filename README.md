@@ -1,2 +1,2 @@
 # pythonlearning
-learningputhon
+learningpython
